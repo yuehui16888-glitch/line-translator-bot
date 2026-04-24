@@ -1,0 +1,5 @@
+flask==3.1.0
+line-bot-sdk==3.23.0
+googletrans==4.0.0-rc1
+langdetect==1.0.9
+gunicorn==23.0.0
